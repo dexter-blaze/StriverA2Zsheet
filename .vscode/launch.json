@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRev",
+            "request": "launch",
+            "mainClass": "ArrayRev",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRevSingleVar",
+            "request": "launch",
+            "mainClass": "ArrayRevSingleVar",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "CheckPalindrome",
+            "request": "launch",
+            "mainClass": "CheckPalindrome",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "FactN",
+            "request": "launch",
+            "mainClass": "FactN",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "LUE",
+            "request": "launch",
+            "mainClass": "LUE",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "NToOneUsingBackTracking",
+            "request": "launch",
+            "mainClass": "NToOneUsingBackTracking",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "OneToNUsingBackTracking",
+            "request": "launch",
+            "mainClass": "OneToNUsingBackTracking",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Re1",
+            "request": "launch",
+            "mainClass": "Re1",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Re2",
+            "request": "launch",
+            "mainClass": "Re2",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Re3",
+            "request": "launch",
+            "mainClass": "Re3",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Re4",
+            "request": "launch",
+            "mainClass": "Re4",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseDLL",
+            "request": "launch",
+            "mainClass": "ReverseDLL",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWordsInString",
+            "request": "launch",
+            "mainClass": "ReverseWordsInString",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfN",
+            "request": "launch",
+            "mainClass": "SumOfN",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNFunc",
+            "request": "launch",
+            "mainClass": "SumOfNFunc",
+            "projectName": "Java_a7c07b7c"
+        }
+    ]
+}
