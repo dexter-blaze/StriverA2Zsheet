@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestHumans",
+            "request": "launch",
+            "mainClass": "enginerringdigest.javacore.test.TestHumans",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "TestAnimals",
+            "request": "launch",
+            "mainClass": "enginerringdigest.javacore.test.TestAnimals",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "enginerringdigest.javacore.test.Test",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
